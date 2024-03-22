@@ -1,3 +1,3 @@
 # ISHOP.
-//Its a basic ecommerce site frontend
+//Its a basic ecommerce site frontend,
 site link- https://immortal-alloy.github.io/ISHOP./
